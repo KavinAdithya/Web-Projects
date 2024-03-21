@@ -1,0 +1,134 @@
+.hi-para{
+    margin-top:0;
+    margin-bottom:0;
+    font-family:Amethysta;
+    font-weight:bold;
+    font-size:30px;
+    color:blue;
+    margin-left:30px;
+}
+.create-para{
+    margin-top:25px;
+    font-size:15px;
+    line-height:0;
+    margin-left:50px;
+    color:grey;
+    margin-bottom:40px;
+}
+input{
+    margin-left:90px;
+    margin-top:14px;
+    padding-left:6px;
+    font-family:Amethysta;
+    padding-top:4px;
+    padding-right:80px;
+}
+.age-input{
+    padding-right:0;
+    width:50px;
+}
+.date-input{
+    padding-right:0;
+}
+.submit-input{
+    padding-right:5px;
+    margin-top:3px;
+    cursor:pointer;
+}
+.accept-para{
+    display:inline-block;
+    font-size:15px;
+    vertical-align:middle;
+    margin-top:8px;
+}
+.checkbox-input{
+    margin-top:40px;
+    margin-bottom:20px;
+    margin-left:100px;
+    background-color:blue;
+}
+.submit-input{
+    margin-left:180px;
+    color:white;
+    border-color:blue;
+    border-radius:17px;
+    background-color:blue;
+    padding-bottom:6px;
+    padding-left:15px;
+    padding-right:12px;
+    border-width:1px;
+    border-style:solid;
+    transition:opacity 1s,background-color 1s,color 1s;
+    cursor:pointer;
+}
+img{
+    width:80px;
+    object-fit:cover;
+    border-radius:100px;
+    margin-top:20px;
+}
+.google-image{
+    margin-left:150px;
+    width:25px;
+    height:30px;
+    margin-top:0;
+    cursor:pointer;
+}
+.google-image:hover{
+    height: 40px;
+    width:35px;
+    margin-right:0;
+    cursor:pointer;
+}
+.linkedin-image{
+    width:30px;
+    margin-left:20px;
+}
+.linkedin-image:hover{
+    width:40px;
+    height:40px;
+    margin-top:8px;
+}
+.gitup-image{
+    width:28px;
+    margin-left:20px;
+}
+.gitup-image:hover{
+    height:40px;
+    width:38px;
+    margin-top:8px;
+}
+.submit-input:hover{
+    border-color:blue;
+    background-color:white;
+    color:blue;
+    border-width:1px;
+    opacity:0.7;
+}
+.submit-input:active{
+    opacity:0.15;
+}
+.or-para{
+    margin-left:90px;
+}
+.social-media-para{
+    font-size:18px;
+    margin-left:145px;
+    font-family:Amethsyta;
+    color:red;
+    margin-top:30px;
+    margin-bottom:10px;
+}
+.already-account-para{
+    margin-top:30px;
+    margin-left:125px;
+    font-size:12px;
+}
+.sign-in-para{
+    text-decoration:none;
+    color:blueviolet;
+}
+.sign-in-para:hover{
+    text-decoration:underline;
+    color:brown;
+}

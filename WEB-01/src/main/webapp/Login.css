@@ -1,0 +1,122 @@
+@charset "ISO-8859-1";
+.Login-para{
+    margin-top:50px;;
+    margin-left:0;
+    font-size:25px;
+    text-align:Left;
+    font-family:sans-serif;
+}
+.tech-para{
+    font-family:Amethysta;
+    font-weight:bold;
+    font-size:30px;
+    vertical-align:middle;
+    display:inline-block;
+    margin-top:0;
+    padding-top:5px;
+    margin-left:10px;
+    margin-bottom:0;
+}
+.web-image{
+    width:50px;
+    height:50px;
+    object-fit:cover;
+    object-position:right;
+    border-radius:30px;
+    vertical-align:middle;
+    padding-bottom:0;
+}
+.web-para{
+    margin-left:80px;
+    margin-top:0;
+    padding-top:0;
+    line-height:0;
+    font-size:16px;
+    color:rgb(140, 167, 174)
+}
+.user-para{
+    display:inline-block;
+    font-size:22px;
+    margin-top:0;
+    margin-left:20px;
+    font-family:Arial;
+    margin-bottom:15px;
+}
+.colon-para{
+    margin-left:10px;
+    margin-right:35px;
+}
+.user-button{
+    height:20px;
+    width:150px;
+    border-style:solid;
+    border-width:1px;
+    border-radius:3px;
+    padding-left:6px;
+    padding-top:2px;
+    font-size:14px;
+}
+.pass-para{
+    display:inline-block;
+    font-size:22px;
+    margin-top:0;
+    margin-left:20px;
+    font-family:Arial;
+    
+}
+.pass-colon-para{
+    margin-left:13px;
+    margin-right:35px;
+}
+.pass-button{
+    height:20px;
+    width:150px;
+    border-style:solid;
+    border-width:1px;
+    border-radius:3px;
+    padding-left:6px;
+    padding-top:2px;
+    font-size:14px;
+    margin-left:7px;
+}
+.submit-button{
+    margin-left:140px;
+    color:white;
+    background-color:rgb(83, 163, 223);
+    border-radius:20px;
+    padding-left:15px;
+    margin-bottom:20px;
+    padding-right:15px;
+    padding-top:8px;
+    padding-bottom:8px;
+    border-color:white;
+    border-style:solid;
+    cursor:pointer;
+    transition:color 0.15s,background-color 0.15s,opacity 0.15s;
+}
+.submit-button:hover{
+    color:rgb(83,163,223);
+    background-color:white;
+    border-color:rgb(83, 163, 223);
+    border-width:1px;
+    box-shadow:2px 2px 5px grey;
+    margin-bottom:23px;
+}
+.submit-button:active{
+    opacity:0.5;
+}
+.sign-in{
+    text-decoration:none;
+    color:red;
+    margin-left:2px;
+    font-size:15px;
+}
+.new-user{
+    display:inline-block;
+    font-size:12px;
+    margin-left:80px;
+}
+.sign-in:hover{
+    color:rgb(230, 0, 255);
+    text-decoration:underline;
+}
